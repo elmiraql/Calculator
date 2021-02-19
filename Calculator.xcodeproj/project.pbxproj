@@ -14,6 +14,7 @@
 		409460F225DEA8DA0034B5AD /* Calculator.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 409460F025DEA8DA0034B5AD /* Calculator.xcdatamodeld */; };
 		409460F425DEA8DE0034B5AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 409460F325DEA8DE0034B5AD /* Assets.xcassets */; };
 		409460F725DEA8DE0034B5AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 409460F525DEA8DE0034B5AD /* LaunchScreen.storyboard */; };
+		4094610025DFD6050034B5AD /* CalculatorLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 409460FF25DFD6050034B5AD /* CalculatorLogic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		409460F325DEA8DE0034B5AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		409460F625DEA8DE0034B5AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		409460F825DEA8DE0034B5AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		409460FF25DFD6050034B5AD /* CalculatorLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorLogic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				409460F525DEA8DE0034B5AD /* LaunchScreen.storyboard */,
 				409460F825DEA8DE0034B5AD /* Info.plist */,
 				409460F025DEA8DA0034B5AD /* Calculator.xcdatamodeld */,
+				409460FF25DFD6050034B5AD /* CalculatorLogic.swift */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				409460EC25DEA8DA0034B5AD /* ViewController.swift in Sources */,
 				409460F225DEA8DA0034B5AD /* Calculator.xcdatamodeld in Sources */,
+				4094610025DFD6050034B5AD /* CalculatorLogic.swift in Sources */,
 				409460E825DEA8DA0034B5AD /* AppDelegate.swift in Sources */,
 				409460EA25DEA8DA0034B5AD /* SceneDelegate.swift in Sources */,
 			);
